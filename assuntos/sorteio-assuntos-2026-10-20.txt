@@ -1,0 +1,9 @@
+﻿Grupo - Participantes - Código do assunto - Assunto
+Grupo 3 - AUGUSTO GÖRGEN, PABLO HENRIQUE DA SILVA - 3.1 - Corrente Contínua (CC) vs. Corrente Alternada (CA)
+Grupo 5 - ISABELLE BAUM DA SILVA, KAMILLY DE PAULA DA ROSA - 5 - Proteção, Medição e Materiais
+Grupo 7 - KAUANY VITÓRIA HENSEL, MÁRCIO LUIZ MACHADO MENDES DA SILVA - 1.1 - Resistores e a Lei de Ohm
+Grupo 2 - ARTHUR FERNANDO RUSCHEL, JÚLIO CÉSAR BERTOTTI DA SILVA - 4.4 - Circuitos de Temporização (Constante de Tempo RC)
+Grupo 8 - NICOLE CAROLINE TAPPER, PYETRA BARBIERI PALUDO, VALENTINA BRANCHER HEBERLE - 5.2 - Materiais Condutores, Isolantes e Semicondutores
+Grupo 4 - BERNARDO PANITZ, EMMANUEL COMIOTTO GUIMARÃES - 5.4 - Relés e Chaves Eletromecânicas
+Grupo 6 - JOÃO GUILHERME MACIEL, PEDRO HENRIQUE KREIMEIER WINTER - 2.4 - Circuitos Integrados (CIs)
+Grupo 1 - ALESSANDRA ISADORA GIOVANELLA, MARIA AUGUSTA EIFLER - 3.2 - Leis de Kirchhoff
